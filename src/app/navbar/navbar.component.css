@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+.navbar-brand{
+    font-family: 'Comfortaa', cursive;
+    font-size: 40px;
+}
+
+.navbar-brand span {
+    font-size: 30px;
+}

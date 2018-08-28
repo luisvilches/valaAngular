@@ -1,0 +1,26 @@
+.contacto{
+    padding: 100px 0px 60px 0px;
+    background: #2c3e50;
+    color:#fff;
+}
+
+.line{
+    width: 100px;
+    border:1px solid #1abc9c;
+}
+
+@media (max-width:768px){
+    .line{
+        display: block;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+
+    h2,p{
+        text-align: center;
+    }
+
+    .rrss{
+        order: 13;
+    }
+}

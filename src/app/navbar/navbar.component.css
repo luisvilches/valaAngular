@@ -8,3 +8,17 @@
 .navbar-brand span {
     font-size: 30px;
 }
+
+.nav-item{
+    margin-left: 30px;
+}
+
+.btn-outline-light{
+    border-color: #1abc9c;
+    color: #1abc9c!important;
+}
+
+.btn-outline-light:hover{
+    background: #1abc9c;
+    color:#fff!important;
+}

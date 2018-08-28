@@ -1,0 +1,17 @@
+.position-1{
+    position: absolute;
+    top:0;
+    z-index: 9999;
+}
+
+#carouselExampleIndicators{
+    position: relative;
+}
+
+section{
+    padding: 200px 0px;
+}
+
+/*.bg-home{
+    background: url('https://www.doapps.me/client/img/home/we-love.jpg');
+}*/

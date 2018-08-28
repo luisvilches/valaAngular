@@ -1,0 +1,28 @@
+.form{
+    margin-top: 65px;
+}
+
+.form input{
+    margin-bottom: 10px;
+}
+
+.form [class^=col]{
+    padding: 4px;
+}
+
+.hide{
+    display: none;
+}
+
+.btn-send{
+    background: #1abc9c;
+    border-color: #1abc9c;
+    color: #fff;
+    outline: 0;
+}
+
+.btn-send:hover{
+    background: #16a085;
+    border-color: #16a085;
+    outline: 0;
+}

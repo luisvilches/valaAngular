@@ -1,0 +1,23 @@
+section{padding:100px 0px;}
+.bg-web{background: #FFFFFF;}
+.bg-web h2{font-size: 40px; margin-bottom: 10px;}
+.bg-web p{font-size: 22px;}
+
+.btn-send{
+    background: #1abc9c;
+    border-color: #1abc9c;
+    color: #fff;
+    outline: 0;
+}
+
+.btn-send:hover{
+    background: #16a085;
+    border-color: #16a085;
+    outline: 0;
+}
+
+.bg-two{background: #eee;}
+
+.col-md-4{margin-bottom: 20px;}
+.h2-caracteristicas{margin-bottom: 40px;}
+.border-bottom{border-bottom: 1px solid #eee;}

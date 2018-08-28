@@ -1,0 +1,15 @@
+
+footer{
+    background: #222;
+    color: #fff;
+    padding-top:20px;
+}
+
+footer p {
+    font-size: 12px;
+}
+
+footer .icon-heart{
+    color: #e74c3c;
+    margin-left: 5px;
+}
